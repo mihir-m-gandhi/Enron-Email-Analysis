@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> This analysis of the Enron Email Dataset focusses on 3 tasks: anomaly detection, social network analysis, and email body analysis. </h4>
+<h4> This analysis of the Enron Email Dataset focusses on 3 tasks: Anomaly Detection, Social Network Analysis, and Email Body Analysis. </h4>
 
 </div>
 
