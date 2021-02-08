@@ -34,26 +34,26 @@ Find the detailed documentation [here]().
 
 The results of all the tasks can be viewed by running the codes below in Google Collab:
 
-* [Anomaly detection](https://drive.google.com/file/d/1leAmK2O2ZsxwRz3A5mrmzg1Y_CxfpgxA/view?usp=sharing)
+* [Anomaly detection](https://colab.research.google.com/drive/1leAmK2O2ZsxwRz3A5mrmzg1Y_CxfpgxA)
 
-* [Social Network analysis](https://drive.google.com/file/d/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf/view?usp=sharing)
+* [Social Network analysis](https://colab.research.google.com/drive/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf)
 
-* [Email Analysis](https://drive.google.com/file/d/1rsvSLKSl9qrmJE__chG10Q09iBKHfftv/view?usp=sharing)
+* [Email Analysis](https://colab.research.google.com/drive/1rsvSLKSl9qrmJE__chG10Q09iBKHfftv)
 
-* [Word Cloud](https://colab.research.google.com/drive/1uWxIbpSpCQyOPYiGieHUl2mkSG50SYZ2?usp=sharing)
+* [Word Cloud](https://colab.research.google.com/drive/1uWxIbpSpCQyOPYiGieHUl2mkSG50SYZ2)
 
 ------------------------------------------
 ### Contributors
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
-Jasdeep Singh Grover - 
+Jasdeep Singh Grover - jasdeep100(https://github.com/jasdeep100)
 
-Hardik Chodvadiya - 
+Hardik Chodvadiya - [willyhardik](https://github.com/willyhardik)
 
-Jay Gala - 
+Jay Gala - [jaygala25](https://github.com/jaygala25)
 
-Sanjana Joshi - 
+Sanjana Joshi - [sanjana-j](https://github.com/sanjana-j)
 
 ------------------------------------------
 ### License
