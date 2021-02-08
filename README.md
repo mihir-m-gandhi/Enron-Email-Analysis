@@ -47,7 +47,7 @@ The results of all the tasks can be viewed by running the codes below in Google 
 
 Mihir Gandhi - [mihir-m-gandhi](https://github.com/mihir-m-gandhi)
 
-Jasdeep Singh Grover - jasdeep100(https://github.com/jasdeep100)
+Jasdeep Singh Grover - [jasdeep100](https://github.com/jasdeep100)
 
 Hardik Chodvadiya - [willyhardik](https://github.com/willyhardik)
 
