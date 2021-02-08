@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> This analysis of the Enron Email Dataset was performed as part of Machine Learning coursework and focusses on 3 tasks: anomaly detection, social analysis, and email body analysis. </h4>
+<h4> This analysis of the Enron Email Dataset was performed as part of Machine Learning coursework and focusses on 3 tasks: anomaly detection, network analysis, and email body analysis. </h4>
 
 </div>
 
