@@ -9,7 +9,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-<h4> This analysis of the Enron Email Dataset was performed as part of Machine Learning coursework and focusses on 3 tasks: anomaly detection, network analysis, and email body analysis. </h4>
+<h4> This analysis of the Enron Email Dataset was performed as part of Machine Learning coursework and focusses on 3 tasks: anomaly detection, social network analysis, and email body analysis. </h4>
 
 </div>
 
@@ -23,8 +23,8 @@
 ------------------------------------------
 ### Tasks performed
 
-- `Anomaly detection` : Map the distribution of emails sent and received by hour and try to detect abnormal behavior leading up to the public scandal.
-- `Nwetwork analysis` : Build a model for communication between employees to find key influencers.
+- `Anomaly Detection` : Map the distribution of emails sent and received by hour and try to detect abnormal behavior leading up to the public scandal.
+- `Social Network Analysis` : Build a model for communication between employees to find key influencers.
 - `Email Analysis` : Analyze the body messages in conjunction with email metadata to classify emails based on their purposes. A word cloud is also generated based on the content of the emails, which gives a visual representation of word frequency and underscores the keywords used.
 
 Find the detailed documentation [here]().
@@ -36,7 +36,7 @@ The results of all the tasks can be viewed by running the codes below in Google 
 
 * [Anomaly detection](https://drive.google.com/file/d/1leAmK2O2ZsxwRz3A5mrmzg1Y_CxfpgxA/view?usp=sharing)
 
-* [Network analysis](https://drive.google.com/file/d/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf/view?usp=sharing)
+* [Social Network analysis](https://drive.google.com/file/d/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf/view?usp=sharing)
 
 * [Email Analysis](https://drive.google.com/file/d/1rsvSLKSl9qrmJE__chG10Q09iBKHfftv/view?usp=sharing)
 
