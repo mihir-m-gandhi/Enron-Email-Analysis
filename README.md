@@ -14,7 +14,7 @@
 </div>
 
 -----------------------------------------
-### About Enron Email Dataset
+### About the Enron Email Dataset
 
 * The Enron scandal and collapse was one of the largest corporate meltdowns in history. In the year 2000, Enron was one of the largest energy companies in America. Then, after being outed for fraud, it spiraled downward into bankruptcy within a year. 
 
