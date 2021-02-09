@@ -1,6 +1,5 @@
 <p align="center">
-  <a href="" rel="noopener">
- <img height=150px src="./enron.png" alt="Enron-logo"></a>
+ <img height=150px src="./enron.png" alt="Enron-logo">
 </p>
 
 <h1 align="center">Enron Email Analysis</h1>
