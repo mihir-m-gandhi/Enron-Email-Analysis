@@ -17,7 +17,7 @@
 
 * The Enron scandal and collapse was one of the largest corporate meltdowns in history. In the year 2000, Enron was one of the largest energy companies in America. Then, after being outed for fraud, it spiraled downward into bankruptcy within a year. 
 
-* The Enron Email Dataset contains 500 thousand emails between 150 former Enron employees, mostly senior executives. It’s the only large public database of real emails, which makes it more valuable. The dataset can be found [here](https://www.cs.cmu.edu/~enron/). 
+* The Enron Email Dataset contains 500,000 emails between 150 former Enron employees, mostly senior executives. It’s the only large public database of real emails, which makes it more valuable. The dataset can be found [here](https://www.cs.cmu.edu/~enron/). 
 
 ------------------------------------------
 ### Tasks performed
