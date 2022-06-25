@@ -31,9 +31,9 @@ Find the detailed documentation [here](./Enron_Email_Analysis.pdf).
 ------------------------------------------
 ### Results
 
-The results of all the tasks can be viewed by running the codes below in Google Collab:
+The results of all the tasks can be viewed in the documentatio nbaove or by running the codes below in Google Collab:
 
-* [Anomaly detection](https://colab.research.google.com/drive/1leAmK2O2ZsxwRz3A5mrmzg1Y_CxfpgxA)
+* [Anomaly detection](Code/Anomaly_Detection.ipynb)
 
 * [Social Network analysis](https://colab.research.google.com/drive/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf)
 
