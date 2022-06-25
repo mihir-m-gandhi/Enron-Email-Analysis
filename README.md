@@ -35,11 +35,11 @@ The results of all the tasks can be viewed in the documentatio nbaove or by runn
 
 * [Anomaly detection](Code/Anomaly_Detection.ipynb)
 
-* [Social Network analysis](https://colab.research.google.com/drive/1n8Dkbz1_OgNNehZeDqCWL2hmIns3GPSf)
+* [Social Network analysis](Code/Social_Network_Analysis.ipynb)
 
-* [Email Analysis](https://colab.research.google.com/drive/1rsvSLKSl9qrmJE__chG10Q09iBKHfftv)
+* [Email Analysis](Code/Email_analysis.ipynb)
 
-* [Word Cloud](https://colab.research.google.com/drive/1uWxIbpSpCQyOPYiGieHUl2mkSG50SYZ2)
+* [Word Cloud](Code/Word_cloud.ipynb)
 
 ------------------------------------------
 ### Contributors
