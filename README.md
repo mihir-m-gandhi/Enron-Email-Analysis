@@ -37,7 +37,7 @@ The results of all the tasks can be viewed in the documentatio nbaove or by runn
 
 * [Social Network analysis](Code/Social_Network_Analysis.ipynb)
 
-* [Email Analysis](Code/Email_analysis.ipynb)
+* [Email Analysis](Code/Email_classification.ipynb)
 
 * [Word Cloud](Code/Word_cloud.ipynb)
 
