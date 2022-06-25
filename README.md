@@ -26,7 +26,7 @@
 - `Social Network Analysis` : Build a model for communication between employees to find key influencers.
 - `Email Analysis` : Analyze the body messages in conjunction with email metadata to classify emails based on their purposes. A word cloud is also generated based on the content of the emails, which gives a visual representation of word frequency and underscores the keywords used.
 
-Find the detailed documentation [here](https://gdoc.pub/doc/18yIH3YurSXQtNrJAhngvCZ8ap3evEi6mj6KDuzqzCZk#?usp=sharing).
+Find the detailed documentation [here](./Enron_Email_Analysis.pdf).
 
 ------------------------------------------
 ### Results
